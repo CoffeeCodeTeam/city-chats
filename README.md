@@ -28,7 +28,7 @@ Find your city and join the local chat!
 
 | Город / City | Чат / Chat |
 |:-------------|:-----------|
-| Miami | [Присоединиться / Join](https://t.me/+HTvrthTNYO1kN2Y6) |
+| Майами / Miami | [Присоединиться / Join](https://t.me/+HTvrthTNYO1kN2Y6) |
 | Адлер / Adler | [Присоединиться / Join](https://t.me/coffeecodeadler) |
 | Аланья / Alanya | [Присоединиться / Join](https://t.me/coffeeCodeAlanya) |
 | Алматы / Almaty | [Присоединиться / Join](https://t.me/CoffeeCodeAlmaty) |
@@ -141,4 +141,4 @@ Can't find your city? Reach out and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 05.04.2026 20:47 (MSK) | Всего городов / Total cities: 98*
+*Обновлено / Updated: 05.04.2026 20:50 (MSK) | Всего городов / Total cities: 98*
