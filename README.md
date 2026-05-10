@@ -32,6 +32,7 @@ Find your city and join the local chat!
 
 | Город / City | Чат / Chat |
 |:-------------|:-----------|
+| Майами / Miami | [Присоединиться / Join](https://t.me/+HTvrthTNYO1kN2Y6) |
 | Адлер / Adler | [Присоединиться / Join](https://t.me/coffeecodeadler) |
 | Аланья / Alanya | [Присоединиться / Join](https://t.me/coffeeCodeAlanya) |
 | Алматы / Almaty | [Присоединиться / Join](https://t.me/CoffeeCodeAlmaty) |
@@ -76,18 +77,18 @@ Find your city and join the local chat!
 | Казань / Kazan | [Присоединиться / Join](https://t.me/coffeecodekazan) |
 | Калининград / Kaliningrad | [Присоединиться / Join](https://t.me/coffeecode_konigsberg) |
 | Караганда / Karaganda | [Присоединиться / Join](https://t.me/+lOYxcBeP0EwzZDZi) |
-| Кёльн / Cologne | [Присоединиться / Join](https://t.me/+_09wW3ZyOSgzN2Zi) |
+| Кельн / Кёльн | [Присоединиться / Join](https://t.me/+vpr03OO_y6BlY2Uy) |
+| Кёльн | [Присоединиться / Join](https://t.me/+_09wW3ZyOSgzN2Zi) |
 | Копенгаген / Copenhagen | [Присоединиться / Join](https://t.me/+LeUlGYDO7ko3NTgy) |
 | Краснодар / Krasnodar | [Присоединиться / Join](https://t.me/coffeecode_krasnodar) |
 | Красноярск / Krasnoyarsk | [Присоединиться / Join](https://t.me/+2ae6vMkwpOE5OTYy) |
 | Кутаиси / Kutaisi | [Присоединиться / Join](https://t.me/+LyqH6Tcof-owODZi) |
-| Кызылорда / Kyzylorda | [Присоединиться / Join](https://t.me/+IZvVuNVArGliN2My) |
+| Кызылорда | [Присоединиться / Join](https://t.me/+IZvVuNVArGliN2My) |
 | Лимассол / Limassol | [Присоединиться / Join](https://t.me/+ZT3DeYpBVFNjMGUy) |
 | Липецк / Lipetsk | [Присоединиться / Join](https://t.me/coffeeCodeLipetsk) |
 | Лондон / London | [Присоединиться / Join](https://t.me/coffeecode_london_ios) |
 | Мадрид / Madrid | [Присоединиться / Join](https://t.me/+QEq2sgYeHeUzOWFi) |
 | Малага / Malaga | [Присоединиться / Join](https://t.me/+26xtXo0FMJo1OTky) |
-| Майами / Miami | [Присоединиться / Join](https://t.me/+HTvrthTNYO1kN2Y6) |
 | Махачкала / Makhachkala | [Присоединиться / Join](https://t.me/+A2MXAw30j1FkY2Ji) |
 | Мерсин / Mersin | [Присоединиться / Join](https://t.me/coffeeCode_mersin) |
 | Минск / Minsk | [Присоединиться / Join](https://t.me/coffeeCodeMinskMobile) |
@@ -111,8 +112,8 @@ Find your city and join the local chat!
 | Ростов-на-Дону / Rostov-on-Don | [Присоединиться / Join](https://t.me/coffeecode_rostov) |
 | Рязань / Ryazan | [Присоединиться / Join](https://t.me/+C7cUqPePMZgwMDUy) |
 | Самара / Samara | [Присоединиться / Join](https://t.me/+EguV3FTF-Sg5YjZi) |
-| Саратов / Saratov | [Присоединиться / Join](https://t.me/+JJHbC2JcyBxjNjEy) |
 | Санкт-Петербург / Saint Petersburg | [Присоединиться / Join](https://t.me/coffee_code_spb) |
+| Саратов / Saratov | [Присоединиться / Join](https://t.me/+JJHbC2JcyBxjNjEy) |
 | Симферополь / Simferopol | [Присоединиться / Join](https://t.me/+AM7axoqnybY0Zjgy) |
 | Смоленск / Smolensk | [Присоединиться / Join](https://t.me/+QTkz6COAo_Y2NjVi) |
 | Сочи / Sochi | [Присоединиться / Join](https://t.me/+KqolZHUgY2szOGIy) |
@@ -138,13 +139,13 @@ Find your city and join the local chat!
 ## Как присоединиться / How to Join
 
 1. Найди свой город в таблице выше / Find your city in the table above
-2. Нажми "Присоединиться" / Click "Join"
+2. Нажми «Присоединиться» / Click «Join»
 3. Дождись подтверждения от администратора / Wait for admin approval
 
-Нет твоего города? Напиши нам и мы создадим чат!
+Нет твоего города? Напиши нам — и мы создадим чат!
 
-Can't find your city? Reach out and we'll create a chat!
+Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 16.04.2026 (MSK) | Всего городов / Total cities: 101*
+*Обновлено / Updated: 10.05.2026 20:38 (MSK) | Всего городов / Total cities: 101*
