@@ -33,30 +33,30 @@ Find your city and join the local chat!
 | Город / City | Чат / Chat |
 |:-------------|:-----------|
 | Майами / Miami | [Присоединиться / Join](https://t.me/+HTvrthTNYO1kN2Y6) |
-| Адлер / Adler | [Присоединиться / Join](https://t.me/coffeecodeadler) |
-| Аланья / Alanya | [Присоединиться / Join](https://t.me/coffeeCodeAlanya) |
-| Алматы / Almaty | [Присоединиться / Join](https://t.me/CoffeeCodeAlmaty) |
-| Амстердам / Amsterdam | [Присоединиться / Join](https://t.me/coffeeCode_amsterdam) |
-| Анталья / Antalya | [Присоединиться / Join](https://t.me/coffeeCodeAntalya) |
-| Астана / Astana | [Присоединиться / Join](https://t.me/coffeeCodeAstana) |
+| Адлер / Adler | [Присоединиться / Join](https://t.me/coffeecode_adler) |
+| Аланья / Alanya | [Присоединиться / Join](https://t.me/+b0Cy0NSywwgzM2Uy) |
+| Алматы / Almaty | [Присоединиться / Join](https://t.me/coffeecode_almaty) |
+| Амстердам / Amsterdam | [Присоединиться / Join](https://t.me/coffeecode_amsterdam) |
+| Анталья / Antalya | [Присоединиться / Join](https://t.me/coffeecode_antalya) |
+| Астана / Astana | [Присоединиться / Join](https://t.me/coffeecode_astana) |
 | Афины / Athens | [Присоединиться / Join](https://t.me/+V8owl44ZzSVhZGQy) |
-| Баку / Baku | [Присоединиться / Join](https://t.me/coffeeCode_baku) |
-| Бали / Bali | [Присоединиться / Join](https://t.me/coffeeCode_bali) |
-| Бангкок / Bangkok | [Присоединиться / Join](https://t.me/coffeeCode_bangkok) |
+| Баку / Baku | [Присоединиться / Join](https://t.me/coffeecode_baku) |
+| Бали / Bali | [Присоединиться / Join](https://t.me/coffeecode_bali) |
+| Бангкок / Bangkok | [Присоединиться / Join](https://t.me/coffeecode_bangkok) |
 | Барнаул / Barnaul | [Присоединиться / Join](https://t.me/+00SgL31ucbs1NDZi) |
 | Барселона / Barcelona | [Присоединиться / Join](https://t.me/+mlRxuj57UkE4NmIy) |
-| Батуми / Batumi | [Присоединиться / Join](https://t.me/coffe_code_batumi) |
+| Батуми / Batumi | [Присоединиться / Join](https://t.me/coffeecode_batumi) |
 | Белград / Belgrade | [Присоединиться / Join](https://t.me/coffeecode_belgrade) |
 | Берлин / Berlin | [Присоединиться / Join](https://t.me/+hO5aQKiAhfMyNzUy) |
-| Бильбао / Bilbao | [Присоединиться / Join](https://t.me/coffeeCode_bilbao) |
-| Бишкек / Bishkek | [Присоединиться / Join](https://t.me/coffeeCodeBishkek) |
+| Бильбао / Bilbao | [Присоединиться / Join](https://t.me/coffeecode_bilbao) |
+| Бишкек / Bishkek | [Присоединиться / Join](https://t.me/coffeecode_bishkek) |
 | Бодрум / Bodrum | [Присоединиться / Join](https://t.me/+alWoRAj14JQ3M2My) |
 | Брест / Brest | [Присоединиться / Join](https://t.me/+OEuAdp1LzzFkNmYy) |
 | Брюссель / Brussels | [Присоединиться / Join](https://t.me/+9vUjU_B2W0E4ODBi) |
 | Будва / Budva | [Присоединиться / Join](https://t.me/+UVeE8Y4n0Q82Njdi) |
 | Бухарест / Bucharest | [Присоединиться / Join](https://t.me/+uUh5hWcn3M1jMTI6) |
-| Буэнос-Айрес / Buenos Aires | [Присоединиться / Join](https://t.me/+nEKBc2qUCxtkY2Ey) |
-| Валенсия / Valencia | [Присоединиться / Join](https://t.me/+uI7sdI4opYUxNThi) |
+| Буэнос-Айрес / Buenos Aires | [Присоединиться / Join](https://t.me/coffeecode_buenos_aires) |
+| Валенсия / Valencia | [Присоединиться / Join](https://t.me/coffeecode_valencia) |
 | Варшава / Warsaw | [Присоединиться / Join](https://t.me/+b3iQDzOnBaIwM2M6) |
 | Вена / Vienna | [Присоединиться / Join](https://t.me/+mUzxSgCpwMsyM2M6) |
 | Вильнюс / Vilnius | [Присоединиться / Join](https://t.me/+kYZJRPzXYjljYTcy) |
@@ -69,35 +69,34 @@ Find your city and join the local chat!
 | Дананг / Danang | [Присоединиться / Join](https://t.me/+lKHEiXtQCKw5ZjRi) |
 | Дубай / Dubai | [Присоединиться / Join](https://t.me/+PXtxtaHqhXtjNmIy) |
 | Дублин / Dublin | [Присоединиться / Join](https://t.me/+VXfOK7a3r-NjMzFi) |
-| Евпатория / Yevpatoria | [Присоединиться / Join](https://t.me/coffeecode_yevpatoria) |
-| Екатеринбург / Ekaterinburg | [Присоединиться / Join](https://t.me/+qWqAxCBryP0xZmE6) |
-| Ереван / Yerevan | [Присоединиться / Join](https://t.me/coffee_code_yerevan) |
+| Евпатория / Yevpatoria | [Присоединиться / Join](https://t.me/+E5AFbApL_25mYWMy) |
+| Екатеринбург / Ekaterinburg | [Присоединиться / Join](https://t.me/coffeecode_ekaterinburg) |
+| Ереван / Yerevan | [Присоединиться / Join](https://t.me/coffeecode_yerevan) |
 | Ижевск / Izhevsk | [Присоединиться / Join](https://t.me/+tP0H6oX8WpdhOTEy) |
 | Йошкар-Ола / Yoshkar-Ola | [Присоединиться / Join](https://t.me/+9zZdNieLp0M5M2Yy) |
-| Казань / Kazan | [Присоединиться / Join](https://t.me/coffeecodekazan) |
-| Калининград / Kaliningrad | [Присоединиться / Join](https://t.me/coffeecode_konigsberg) |
-| Караганда / Karaganda | [Присоединиться / Join](https://t.me/+lOYxcBeP0EwzZDZi) |
-| Кельн / Кёльн | [Присоединиться / Join](https://t.me/+vpr03OO_y6BlY2Uy) |
-| Кёльн | [Присоединиться / Join](https://t.me/+_09wW3ZyOSgzN2Zi) |
+| Казань / Kazan | [Присоединиться / Join](https://t.me/coffeecode_kazan) |
+| Калининград / Kaliningrad | [Присоединиться / Join](https://t.me/coffeecode_kaliningrad) |
+| Караганда / Karaganda | [Присоединиться / Join](https://t.me/coffeecode_karaganda) |
+| Кёльн / Cologne | [Присоединиться / Join](https://t.me/+vpr03OO_y6BlY2Uy) |
 | Копенгаген / Copenhagen | [Присоединиться / Join](https://t.me/+LeUlGYDO7ko3NTgy) |
 | Краснодар / Krasnodar | [Присоединиться / Join](https://t.me/coffeecode_krasnodar) |
 | Красноярск / Krasnoyarsk | [Присоединиться / Join](https://t.me/+2ae6vMkwpOE5OTYy) |
 | Кутаиси / Kutaisi | [Присоединиться / Join](https://t.me/+LyqH6Tcof-owODZi) |
-| Кызылорда | [Присоединиться / Join](https://t.me/+IZvVuNVArGliN2My) |
+| Кызылорда / Kyzylorda | [Присоединиться / Join](https://t.me/+IZvVuNVArGliN2My) |
 | Лимассол / Limassol | [Присоединиться / Join](https://t.me/+ZT3DeYpBVFNjMGUy) |
-| Липецк / Lipetsk | [Присоединиться / Join](https://t.me/coffeeCodeLipetsk) |
-| Лондон / London | [Присоединиться / Join](https://t.me/coffeecode_london_ios) |
+| Липецк / Lipetsk | [Присоединиться / Join](https://t.me/+XeeoA8Ju5jZkODVi) |
+| Лондон / London | [Присоединиться / Join](https://t.me/coffeecode_london) |
 | Мадрид / Madrid | [Присоединиться / Join](https://t.me/+QEq2sgYeHeUzOWFi) |
 | Малага / Malaga | [Присоединиться / Join](https://t.me/+26xtXo0FMJo1OTky) |
 | Махачкала / Makhachkala | [Присоединиться / Join](https://t.me/+A2MXAw30j1FkY2Ji) |
-| Мерсин / Mersin | [Присоединиться / Join](https://t.me/coffeeCode_mersin) |
-| Минск / Minsk | [Присоединиться / Join](https://t.me/coffeeCodeMinskMobile) |
+| Мерсин / Mersin | [Присоединиться / Join](https://t.me/coffeecode_mersin) |
+| Минск / Minsk | [Присоединиться / Join](https://t.me/coffeecode_minsk) |
 | Монтенегро / Montenegro | [Присоединиться / Join](https://t.me/+ZK-UgqqkTx1iOThi) |
 | Москва / Moscow | [Присоединиться / Join](https://t.me/coffeecode_moscow) |
 | Мурманск / Murmansk | [Присоединиться / Join](https://t.me/+lreXdld7t3w4ZWE6) |
-| Нижний Новгород / Nizhny Novgorod | [Присоединиться / Join](https://t.me/coffeeCode_nizhnyNovgorod) |
+| Нижний Новгород / Nizhny Novgorod | [Присоединиться / Join](https://t.me/coffeecode_nizhny_novgorod) |
 | Нови Сад / Novi Sad | [Присоединиться / Join](https://t.me/+LARloPSd3e04YTQy) |
-| Новосибирск / Novosibirsk | [Присоединиться / Join](https://t.me/+_etsjCQiCU85ZTUy) |
+| Новосибирск / Novosibirsk | [Присоединиться / Join](https://t.me/coffeecode_novosibirsk) |
 | Нячанг / Nha Trang | [Присоединиться / Join](https://t.me/+2_TaJ-tG2Gw0YWYy) |
 | Осло / Oslo | [Присоединиться / Join](https://t.me/+u0EgEOB_iW00ZGZi) |
 | Париж / Paris | [Присоединиться / Join](https://t.me/+z8jYeh6tBWQxYjZi) |
@@ -112,27 +111,27 @@ Find your city and join the local chat!
 | Ростов-на-Дону / Rostov-on-Don | [Присоединиться / Join](https://t.me/coffeecode_rostov) |
 | Рязань / Ryazan | [Присоединиться / Join](https://t.me/+C7cUqPePMZgwMDUy) |
 | Самара / Samara | [Присоединиться / Join](https://t.me/+EguV3FTF-Sg5YjZi) |
-| Санкт-Петербург / Saint Petersburg | [Присоединиться / Join](https://t.me/coffee_code_spb) |
+| Санкт-Петербург / Saint Petersburg | [Присоединиться / Join](https://t.me/coffeecode_spb) |
 | Саратов / Saratov | [Присоединиться / Join](https://t.me/+JJHbC2JcyBxjNjEy) |
-| Симферополь / Simferopol | [Присоединиться / Join](https://t.me/+AM7axoqnybY0Zjgy) |
+| Симферополь / Simferopol | [Присоединиться / Join](https://t.me/coffeecode_simferopol) |
 | Смоленск / Smolensk | [Присоединиться / Join](https://t.me/+QTkz6COAo_Y2NjVi) |
 | Сочи / Sochi | [Присоединиться / Join](https://t.me/+KqolZHUgY2szOGIy) |
-| Стамбул / Istanbul | [Присоединиться / Join](https://t.me/coffeeCode_istambul) |
+| Стамбул / Istanbul | [Присоединиться / Join](https://t.me/coffeecode_istanbul) |
 | Стокгольм / Stockholm | [Присоединиться / Join](https://t.me/+VUy8yfh0cacxNzFi) |
-| Таллин / Tallinn | [Присоединиться / Join](https://t.me/+qxTDcYaZKhMxYzEy) |
-| Ташкент / Tashkent | [Присоединиться / Join](https://t.me/coffeeCode_tashkent) |
-| Тбилиси / Tbilisi | [Присоединиться / Join](https://t.me/coffeeCode_tbilisi) |
-| Тель-Авив / Tel Aviv | [Присоединиться / Join](https://t.me/coffeeCode_telAviv) |
-| Тольятти / Tolyatti | [Присоединиться / Join](https://t.me/+stAIzlcihE43MWIy) |
+| Таллин / Tallinn | [Присоединиться / Join](https://t.me/+Qr0bcW2H8VJlZWYy) |
+| Ташкент / Tashkent | [Присоединиться / Join](https://t.me/coffeecode_tashkent) |
+| Тбилиси / Tbilisi | [Присоединиться / Join](https://t.me/coffeecode_tbilisi) |
+| Тель-Авив / Tel Aviv | [Присоединиться / Join](https://t.me/coffeecode_tel_aviv) |
+| Тольятти / Tolyatti | [Присоединиться / Join](https://t.me/coffeecode_tolyatti) |
 | Томск / Tomsk | [Присоединиться / Join](https://t.me/+gNUV38ZxXww1NjFi) |
 | Тула / Tula | [Присоединиться / Join](https://t.me/+yYpNNV9BRVplNTVi) |
 | Уфа / Ufa | [Присоединиться / Join](https://t.me/+Hhl-nxyK0v4zOTVi) |
 | Хельсинки / Helsinki | [Присоединиться / Join](https://t.me/+b8eQySc9wcA4YmYy) |
 | Цюрих / Zurich | [Присоединиться / Join](https://t.me/+Ay1yNZUcU1c0OGYy) |
-| Челябинск / Chelyabinsk | [Присоединиться / Join](https://t.me/coffeecodechl) |
+| Челябинск / Chelyabinsk | [Присоединиться / Join](https://t.me/coffeecode_chelyabinsk) |
 | Череповец / Cherepovets | [Присоединиться / Join](https://t.me/+__NAvdFL18kwOWJi) |
 | Шымкент / Shymkent | [Присоединиться / Join](https://t.me/+0aJVdR7XUyQ1YzQ6) |
-| Ярославль / Yaroslavl | [Присоединиться / Join](https://t.me/coffeeCode_yaroslavl) |
+| Ярославль / Yaroslavl | [Присоединиться / Join](https://t.me/coffeecode_yaroslavl) |
 
 ---
 
@@ -148,4 +147,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 10.05.2026 20:38 (MSK) | Всего городов / Total cities: 101*
+*Обновлено / Updated: 31.05.2026 (MSK) | Всего городов / Total cities: 100*
