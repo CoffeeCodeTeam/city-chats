@@ -91,6 +91,7 @@ Find your city and join the local chat!
 | Махачкала / Makhachkala | [Присоединиться / Join](https://t.me/+A2MXAw30j1FkY2Ji) |
 | Мерсин / Mersin | [Присоединиться / Join](https://t.me/coffeecode_mersin) |
 | Минск / Minsk | [Присоединиться / Join](https://t.me/coffeecode_minsk) |
+| Могилёв / Mogilev | [Присоединиться / Join](https://t.me/+lCtPstfqEZ4yYmFi) |
 | Монтенегро / Montenegro | [Присоединиться / Join](https://t.me/+ZK-UgqqkTx1iOThi) |
 | Москва / Moscow | [Присоединиться / Join](https://t.me/coffeecode_moscow) |
 | Мурманск / Murmansk | [Присоединиться / Join](https://t.me/+lreXdld7t3w4ZWE6) |
@@ -147,4 +148,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 31.05.2026 (MSK) | Всего городов / Total cities: 100*
+*Обновлено / Updated: 30.06.2026 (MSK) | Всего городов / Total cities: 101*
