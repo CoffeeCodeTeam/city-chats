@@ -77,12 +77,12 @@ Find your city and join the local chat!
 | Казань / Kazan | [Присоединиться / Join](https://t.me/coffeecode_kazan) |
 | Калининград / Kaliningrad | [Присоединиться / Join](https://t.me/coffeecode_kaliningrad) |
 | Караганда / Karaganda | [Присоединиться / Join](https://t.me/coffeecode_karaganda) |
-| Кёльн | [Присоединиться / Join](https://t.me/+vpr03OO_y6BlY2Uy) |
+| Кёльн / Cologne | [Присоединиться / Join](https://t.me/+vpr03OO_y6BlY2Uy) |
 | Копенгаген / Copenhagen | [Присоединиться / Join](https://t.me/+LeUlGYDO7ko3NTgy) |
 | Краснодар / Krasnodar | [Присоединиться / Join](https://t.me/coffeecode_krasnodar) |
 | Красноярск / Krasnoyarsk | [Присоединиться / Join](https://t.me/+2ae6vMkwpOE5OTYy) |
 | Кутаиси / Kutaisi | [Присоединиться / Join](https://t.me/+LyqH6Tcof-owODZi) |
-| Кызылорда | [Присоединиться / Join](https://t.me/+IZvVuNVArGliN2My) |
+| Кызылорда / Kyzylorda | [Присоединиться / Join](https://t.me/+IZvVuNVArGliN2My) |
 | Лимассол / Limassol | [Присоединиться / Join](https://t.me/+ZT3DeYpBVFNjMGUy) |
 | Липецк / Lipetsk | [Присоединиться / Join](https://t.me/+XeeoA8Ju5jZkODVi) |
 | Лондон / London | [Присоединиться / Join](https://t.me/coffeecode_london) |
@@ -91,7 +91,7 @@ Find your city and join the local chat!
 | Махачкала / Makhachkala | [Присоединиться / Join](https://t.me/+A2MXAw30j1FkY2Ji) |
 | Мерсин / Mersin | [Присоединиться / Join](https://t.me/coffeecode_mersin) |
 | Минск / Minsk | [Присоединиться / Join](https://t.me/coffeecode_minsk) |
-| Могилев / Mogilev | [Присоединиться / Join](https://t.me/+lCtPstfqEZ4yYmFi) |
+| Могилёв / Mogilev | [Присоединиться / Join](https://t.me/+lCtPstfqEZ4yYmFi) |
 | Монтенегро / Montenegro | [Присоединиться / Join](https://t.me/+ZK-UgqqkTx1iOThi) |
 | Москва / Moscow | [Присоединиться / Join](https://t.me/coffeecode_moscow) |
 | Мурманск / Murmansk | [Присоединиться / Join](https://t.me/+lreXdld7t3w4ZWE6) |
@@ -148,4 +148,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 05.07.2026 10:21 (MSK) | Всего городов / Total cities: 101*
+*Обновлено / Updated: 13.07.2026 12:51 (MSK) | Всего городов / Total cities: 101*
