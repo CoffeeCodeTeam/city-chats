@@ -46,6 +46,7 @@ Find your city and join the local chat!
 | Барнаул / Barnaul | [Присоединиться / Join](https://telegram.me/+00SgL31ucbs1NDZi) |
 | Барселона / Barcelona | [Присоединиться / Join](https://telegram.me/+mlRxuj57UkE4NmIy) |
 | Батуми / Batumi | [Присоединиться / Join](https://telegram.me/coffeecode_batumi) |
+| Белгород / Belgorod | [Присоединиться / Join](https://telegram.me/+upv2h-d4k-Q3OGYy) |
 | Белград / Belgrade | [Присоединиться / Join](https://telegram.me/coffeecode_belgrade) |
 | Берлин / Berlin | [Присоединиться / Join](https://telegram.me/+hO5aQKiAhfMyNzUy) |
 | Бильбао / Bilbao | [Присоединиться / Join](https://telegram.me/coffeecode_bilbao) |
@@ -63,12 +64,14 @@ Find your city and join the local chat!
 | Владивосток / Vladivostok | [Присоединиться / Join](https://telegram.me/+yZnq0NRZhlAxNzZi) |
 | Владикавказ / Vladikavkaz | [Присоединиться / Join](https://telegram.me/+C1pHHGXu4785Yzgy) |
 | Волгоград / Volgograd | [Присоединиться / Join](https://telegram.me/+yec3iBWUztE2YzZi) |
+| Волжский / Volzhsky | [Присоединиться / Join](https://telegram.me/+d5vKNMb-xkE3NTli) |
 | Вологда / Vologda | [Присоединиться / Join](https://telegram.me/+-diJq1r_F5A0Mzg6) |
 | Воронеж / Voronezh | [Присоединиться / Join](https://telegram.me/coffeecode_voronezh) |
 | Гомель / Gomel | [Присоединиться / Join](https://telegram.me/+G7_o7jyikWthYWM6) |
 | Дананг / Danang | [Присоединиться / Join](https://telegram.me/+lKHEiXtQCKw5ZjRi) |
 | Дубай / Dubai | [Присоединиться / Join](https://telegram.me/+PXtxtaHqhXtjNmIy) |
 | Дублин / Dublin | [Присоединиться / Join](https://telegram.me/+VXfOK7a3r-NjMzFi) |
+| Душанбе / Dushanbe | [Присоединиться / Join](https://telegram.me/+GK464ZEz7-ljYzli) |
 | Евпатория / Yevpatoria | [Присоединиться / Join](https://telegram.me/+E5AFbApL_25mYWMy) |
 | Екатеринбург / Ekaterinburg | [Присоединиться / Join](https://telegram.me/coffeecode_ekaterinburg) |
 | Ереван / Yerevan | [Присоединиться / Join](https://telegram.me/coffeecode_yerevan) |
@@ -112,6 +115,7 @@ Find your city and join the local chat!
 | Ростов-на-Дону / Rostov-on-Don | [Присоединиться / Join](https://telegram.me/coffeecode_rostov) |
 | Рязань / Ryazan | [Присоединиться / Join](https://telegram.me/+C7cUqPePMZgwMDUy) |
 | Самара / Samara | [Присоединиться / Join](https://telegram.me/+EguV3FTF-Sg5YjZi) |
+| Самарканд / Samarkand | [Присоединиться / Join](https://telegram.me/+fxKqneMW6ZgwZDNi) |
 | Санкт-Петербург / Saint Petersburg | [Присоединиться / Join](https://telegram.me/coffeecode_spb) |
 | Саратов / Saratov | [Присоединиться / Join](https://telegram.me/+JJHbC2JcyBxjNjEy) |
 | Симферополь / Simferopol | [Присоединиться / Join](https://telegram.me/coffeecode_simferopol) |
@@ -126,6 +130,9 @@ Find your city and join the local chat!
 | Тольятти / Tolyatti | [Присоединиться / Join](https://telegram.me/coffeecode_tolyatti) |
 | Томск / Tomsk | [Присоединиться / Join](https://telegram.me/+gNUV38ZxXww1NjFi) |
 | Тула / Tula | [Присоединиться / Join](https://telegram.me/+yYpNNV9BRVplNTVi) |
+| Туркестан / Turkestan | [Присоединиться / Join](https://telegram.me/+-G1uZZ1iFNg4NzEy) |
+| Ульяновск / Ulyanovsk | [Присоединиться / Join](https://telegram.me/+67CdTLUW9-IxNmJi) |
+| Уральск / Oral | [Присоединиться / Join](https://telegram.me/+TQl7HbfZ6rQ5Mjgy) |
 | Уфа / Ufa | [Присоединиться / Join](https://telegram.me/+Hhl-nxyK0v4zOTVi) |
 | Хельсинки / Helsinki | [Присоединиться / Join](https://telegram.me/+b8eQySc9wcA4YmYy) |
 | Цюрих / Zurich | [Присоединиться / Join](https://telegram.me/+Ay1yNZUcU1c0OGYy) |
@@ -148,4 +155,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 13.07.2026 12:51 (MSK) | Всего городов / Total cities: 101*
+*Обновлено / Updated: 15.07.2026 09:12 (MSK) | Всего городов / Total cities: 108*
