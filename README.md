@@ -132,7 +132,7 @@ Find your city and join the local chat!
 | Тула / Tula | [Присоединиться / Join](https://telegram.me/+yYpNNV9BRVplNTVi) |
 | Туркестан / Turkestan | [Присоединиться / Join](https://telegram.me/+-G1uZZ1iFNg4NzEy) |
 | Ульяновск / Ulyanovsk | [Присоединиться / Join](https://telegram.me/+67CdTLUW9-IxNmJi) |
-| Уральск / Oral | [Присоединиться / Join](https://telegram.me/+TQl7HbfZ6rQ5Mjgy) |
+| Уральск / Uralsk | [Присоединиться / Join](https://telegram.me/+TQl7HbfZ6rQ5Mjgy) |
 | Уфа / Ufa | [Присоединиться / Join](https://telegram.me/+Hhl-nxyK0v4zOTVi) |
 | Хельсинки / Helsinki | [Присоединиться / Join](https://telegram.me/+b8eQySc9wcA4YmYy) |
 | Цюрих / Zurich | [Присоединиться / Join](https://telegram.me/+Ay1yNZUcU1c0OGYy) |
@@ -155,4 +155,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 15.07.2026 09:12 (MSK) | Всего городов / Total cities: 108*
+*Обновлено / Updated: 15.07.2026 10:37 (MSK) | Всего городов / Total cities: 108*
