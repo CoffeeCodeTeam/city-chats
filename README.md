@@ -108,6 +108,7 @@ Find your city and join the local chat!
 | Пенза / Penza | [Присоединиться / Join](https://telegram.me/+GE4Ivl2-R2Q3ODMy) |
 | Пермь / Perm | [Присоединиться / Join](https://telegram.me/+3_Ju8qMah91mN2Ey) |
 | Петрозаводск / Petrozavodsk | [Присоединиться / Join](https://telegram.me/+3uy8Ut3COmRjNDI6) |
+| Петропавловск-Камчатский / Petropavlovsk-Kamchatsky | [Присоединиться / Join](https://telegram.me/+UQqx8ptDarw5ZmEy) |
 | Порто / Porto | [Присоединиться / Join](https://telegram.me/+gORfkt-hWMJiZjMy) |
 | Прага / Prague | [Присоединиться / Join](https://telegram.me/+-ilz3bgKkUg5MGRi) |
 | Пхукет / Phuket | [Присоединиться / Join](https://telegram.me/+s9TNx5Yww6szZTY6) |
