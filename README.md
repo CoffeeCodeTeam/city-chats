@@ -125,6 +125,7 @@ Find your city and join the local chat!
 | Сочи / Sochi | [Присоединиться / Join](https://telegram.me/+HnhAGYF8F3tmYzdi) |
 | Стамбул / Istanbul | [Присоединиться / Join](https://telegram.me/coffeecode_istanbul) |
 | Стокгольм / Stockholm | [Присоединиться / Join](https://telegram.me/+xvQGlJs935A5MTQy) |
+| Суботица / Subotica | [Присоединиться / Join](https://telegram.me/+GYrZePMESQQxMTAy) |
 | Таллин / Tallinn | [Присоединиться / Join](https://telegram.me/+rSvFg4O7rFpkOTNi) |
 | Ташкент / Tashkent | [Присоединиться / Join](https://telegram.me/coffeecode_tashkent) |
 | Тбилиси / Tbilisi | [Присоединиться / Join](https://telegram.me/coffeecode_tbilisi) |
@@ -157,4 +158,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 02.08.2026 10:31 (MSK) | Всего городов / Total cities: 110*
+*Обновлено / Updated: 20.09.2026 10:48 (MSK) | Всего городов / Total cities: 111*
