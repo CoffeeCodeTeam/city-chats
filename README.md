@@ -79,6 +79,7 @@ Find your city and join the local chat!
 | Йошкар-Ола / Yoshkar-Ola | [Присоединиться / Join](https://telegram.me/+DYLbYOKjozk4OGQ6) |
 | Казань / Kazan | [Присоединиться / Join](https://telegram.me/coffeecode_kazan) |
 | Калининград / Kaliningrad | [Присоединиться / Join](https://telegram.me/coffeecode_kaliningrad) |
+| Калуга / Kaluga | [Присоединиться / Join](https://telegram.me/+lR7XmqPU6mgyZTc6) |
 | Караганда / Karaganda | [Присоединиться / Join](https://telegram.me/coffeecode_karaganda) |
 | Кёльн / Cologne | [Присоединиться / Join](https://telegram.me/+m0EVVBpwhDdkOGJi) |
 | Копенгаген / Copenhagen | [Присоединиться / Join](https://telegram.me/+NJGMW-KC-9kwZWVi) |
@@ -132,8 +133,10 @@ Find your city and join the local chat!
 | Тель-Авив / Tel Aviv | [Присоединиться / Join](https://telegram.me/coffeecode_tel_aviv) |
 | Тольятти / Tolyatti | [Присоединиться / Join](https://telegram.me/coffeecode_tolyatti) |
 | Томск / Tomsk | [Присоединиться / Join](https://telegram.me/+9MKfz6ER4qA4MzBi) |
+| Туапсе / Tuapse | [Присоединиться / Join](https://telegram.me/+p9SaS3ajm001Y2Vi) |
 | Тула / Tula | [Присоединиться / Join](https://telegram.me/+psxqWHhXObZiZWFi) |
 | Туркестан / Turkestan | [Присоединиться / Join](https://telegram.me/+ASlGdvaz7dlkMWQy) |
+| Тюмень / Tyumen | [Присоединиться / Join](https://telegram.me/+1YY6gjKaNY5lODYy) |
 | Ульяновск / Ulyanovsk | [Присоединиться / Join](https://telegram.me/+EJVorUB4Ss83YWMy) |
 | Уральск / Uralsk | [Присоединиться / Join](https://telegram.me/+_mA7qBg2VqwzNjcy) |
 | Уфа / Ufa | [Присоединиться / Join](https://telegram.me/+IY-hH2ATgOY4ODYy) |
@@ -158,4 +161,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 20.09.2026 10:48 (MSK) | Всего городов / Total cities: 111*
+*Обновлено / Updated: 27.10.2026 15:30 (MSK) | Всего городов / Total cities: 114*
