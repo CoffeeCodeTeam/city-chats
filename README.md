@@ -67,6 +67,8 @@ Find your city and join the local chat!
 | Волжский / Volzhsky | [Присоединиться / Join](https://telegram.me/+Y1hrBdzX3xNlNTMy) |
 | Вологда / Vologda | [Присоединиться / Join](https://telegram.me/+735S-QAs80lkNzUy) |
 | Воронеж / Voronezh | [Присоединиться / Join](https://telegram.me/coffeecode_voronezh) |
+| Галле (Вестфалия) / Halle (Westfalen) | [Присоединиться / Join](https://telegram.me/+nCHEkgRUk3kzNDQy) |
+| Галле (Зале) / Halle (Saale) | [Присоединиться / Join](https://telegram.me/+J6ylp07jyIMwYjZi) |
 | Гомель / Gomel | [Присоединиться / Join](https://telegram.me/+Izk9Fn8IBakyNjMy) |
 | Дананг / Danang | [Присоединиться / Join](https://telegram.me/+crnCOYFodNRjN2Ey) |
 | Дубай / Dubai | [Присоединиться / Join](https://telegram.me/+8f2U22ybO1c5NWEy) |
@@ -87,8 +89,10 @@ Find your city and join the local chat!
 | Красноярск / Krasnoyarsk | [Присоединиться / Join](https://telegram.me/+In7Qb9BQMAYyZWNi) |
 | Кутаиси / Kutaisi | [Присоединиться / Join](https://telegram.me/+N5N7_IH4JtpjNWMy) |
 | Кызылорда / Kyzylorda | [Присоединиться / Join](https://telegram.me/+rtFV8Q0jbkNkNmVi) |
+| Ларнака / Larnaca | [Присоединиться / Join](https://telegram.me/+vda09QwgDJAxMDcy) |
 | Лимассол / Limassol | [Присоединиться / Join](https://telegram.me/+MUfdN-YJcMk4NmIy) |
 | Липецк / Lipetsk | [Присоединиться / Join](https://telegram.me/+GXhj2NunHYgzOWYy) |
+| Лиссабон / Lisbon | [Присоединиться / Join](https://telegram.me/+ODmspLUejABmYjNi) |
 | Лондон / London | [Присоединиться / Join](https://telegram.me/coffeecode_london) |
 | Мадрид / Madrid | [Присоединиться / Join](https://telegram.me/+GyR0lwOy8TQ5MWIy) |
 | Малага / Malaga | [Присоединиться / Join](https://telegram.me/+NF0mPt7UuK1kOTIy) |
@@ -162,4 +166,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 01.11.2026 11:32 (MSK) | Всего городов / Total cities: 115*
+*Обновлено / Updated: 12.11.2026 | Всего городов / Total cities: 119*
