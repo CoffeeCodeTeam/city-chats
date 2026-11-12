@@ -61,6 +61,7 @@ Find your city and join the local chat!
 | Варшава / Warsaw | [Присоединиться / Join](https://telegram.me/+UcbotCLGGfUzNzMy) |
 | Вена / Vienna | [Присоединиться / Join](https://telegram.me/+2EcGZuG_rydlMjky) |
 | Вильнюс / Vilnius | [Присоединиться / Join](https://telegram.me/+uzSTgQp6avVkNTE6) |
+| Витебск / Vitebsk | [Присоединиться / Join](https://telegram.me/+AzT5BgOhczxkMDhi) |
 | Владивосток / Vladivostok | [Присоединиться / Join](https://telegram.me/+fVO_MZ1sZgIzNjVi) |
 | Владикавказ / Vladikavkaz | [Присоединиться / Join](https://telegram.me/+EPPLCxn0WF44OGZi) |
 | Волгоград / Volgograd | [Присоединиться / Join](https://telegram.me/+5YYJ1loqu5A4MzAy) |
@@ -85,6 +86,7 @@ Find your city and join the local chat!
 | Караганда / Karaganda | [Присоединиться / Join](https://telegram.me/coffeecode_karaganda) |
 | Кёльн / Cologne | [Присоединиться / Join](https://telegram.me/+m0EVVBpwhDdkOGJi) |
 | Копенгаген / Copenhagen | [Присоединиться / Join](https://telegram.me/+NJGMW-KC-9kwZWVi) |
+| Краков / Krakow | [Присоединиться / Join](https://telegram.me/+Mjb6499OnWQ0NmFi) |
 | Краснодар / Krasnodar | [Присоединиться / Join](https://telegram.me/coffeecode_krasnodar) |
 | Красноярск / Krasnoyarsk | [Присоединиться / Join](https://telegram.me/+In7Qb9BQMAYyZWNi) |
 | Кутаиси / Kutaisi | [Присоединиться / Join](https://telegram.me/+N5N7_IH4JtpjNWMy) |
@@ -115,6 +117,7 @@ Find your city and join the local chat!
 | Пермь / Perm | [Присоединиться / Join](https://telegram.me/+3_Ju8qMah91mN2Ey) |
 | Петрозаводск / Petrozavodsk | [Присоединиться / Join](https://telegram.me/+3uy8Ut3COmRjNDI6) |
 | Петропавловск-Камчатский / Petropavlovsk-Kamchatsky | [Присоединиться / Join](https://telegram.me/+UQqx8ptDarw5ZmEy) |
+| Полоцк / Polotsk | [Присоединиться / Join](https://telegram.me/+oLThM_03R_s4MjJi) |
 | Порто / Porto | [Присоединиться / Join](https://telegram.me/+gORfkt-hWMJiZjMy) |
 | Прага / Prague | [Присоединиться / Join](https://telegram.me/+-ilz3bgKkUg5MGRi) |
 | Пхукет / Phuket | [Присоединиться / Join](https://telegram.me/+s9TNx5Yww6szZTY6) |
