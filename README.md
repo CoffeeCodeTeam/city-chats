@@ -32,6 +32,8 @@ Find your city and join the local chat!
 
 | Город / City | Чат / Chat |
 |:-------------|:-----------|
+| Halle (Saale) | [Присоединиться / Join](https://telegram.me/+J6ylp07jyIMwYjZi) |
+| Halle (Westfalen) | [Присоединиться / Join](https://telegram.me/+nCHEkgRUk3kzNDQy) |
 | Майами / Miami | [Присоединиться / Join](https://telegram.me/+-6ysvFbWX4dlMTc6) |
 | Адлер / Adler | [Присоединиться / Join](https://telegram.me/coffeecode_adler) |
 | Аланья / Alanya | [Присоединиться / Join](https://telegram.me/+oOC357jviec2OWJi) |
@@ -68,8 +70,6 @@ Find your city and join the local chat!
 | Волжский / Volzhsky | [Присоединиться / Join](https://telegram.me/+Y1hrBdzX3xNlNTMy) |
 | Вологда / Vologda | [Присоединиться / Join](https://telegram.me/+735S-QAs80lkNzUy) |
 | Воронеж / Voronezh | [Присоединиться / Join](https://telegram.me/coffeecode_voronezh) |
-| Галле (Вестфалия) / Halle (Westfalen) | [Присоединиться / Join](https://telegram.me/+nCHEkgRUk3kzNDQy) |
-| Галле (Зале) / Halle (Saale) | [Присоединиться / Join](https://telegram.me/+J6ylp07jyIMwYjZi) |
 | Гомель / Gomel | [Присоединиться / Join](https://telegram.me/+Izk9Fn8IBakyNjMy) |
 | Дананг / Danang | [Присоединиться / Join](https://telegram.me/+crnCOYFodNRjN2Ey) |
 | Дубай / Dubai | [Присоединиться / Join](https://telegram.me/+8f2U22ybO1c5NWEy) |
@@ -169,4 +169,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 12.11.2026 | Всего городов / Total cities: 119*
+*Обновлено / Updated: 15.11.2026 10:49 (MSK) | Всего городов / Total cities: 122*
