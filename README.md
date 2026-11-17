@@ -84,6 +84,7 @@ Find your city and join the local chat!
 | Калининград / Kaliningrad | [Присоединиться / Join](https://telegram.me/coffeecode_kaliningrad) |
 | Калуга / Kaluga | [Присоединиться / Join](https://telegram.me/+lR7XmqPU6mgyZTc6) |
 | Караганда / Karaganda | [Присоединиться / Join](https://telegram.me/coffeecode_karaganda) |
+| Кемерово / Kemerovo | [Присоединиться / Join](https://telegram.me/+K9GSgD82RPhiYzhi) |
 | Кёльн / Cologne | [Присоединиться / Join](https://telegram.me/+m0EVVBpwhDdkOGJi) |
 | Копенгаген / Copenhagen | [Присоединиться / Join](https://telegram.me/+NJGMW-KC-9kwZWVi) |
 | Краков / Krakow | [Присоединиться / Join](https://telegram.me/+Mjb6499OnWQ0NmFi) |
@@ -169,4 +170,4 @@ Can't find your city? Reach out — and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 15.11.2026 10:49 (MSK) | Всего городов / Total cities: 122*
+*Обновлено / Updated: 17.11.2026 | Всего городов / Total cities: 123*
