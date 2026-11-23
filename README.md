@@ -112,6 +112,7 @@ Find your city and join the local chat!
 | Новосибирск / Novosibirsk | [Присоединиться / Join](https://telegram.me/coffeecode_novosibirsk) |
 | Нячанг / Nha Trang | [Присоединиться / Join](https://telegram.me/+3gWzkLMBfXAwMTJi) |
 | Осло / Oslo | [Присоединиться / Join](https://telegram.me/+srffRq99PFZhNjMy) |
+| Ош / Osh | [Присоединиться / Join](https://telegram.me/+ZmOfO62pWAY2Mjdi) |
 | Париж / Paris | [Присоединиться / Join](https://telegram.me/+8SYZofN6_JQxNDgy) |
 | Паттайя / Pattaya | [Присоединиться / Join](https://telegram.me/+hcAQb17XXYAxNGFi) |
 | Пенза / Penza | [Присоединиться / Join](https://telegram.me/+GE4Ivl2-R2Q3ODMy) |
@@ -148,6 +149,7 @@ Find your city and join the local chat!
 | Тюмень / Tyumen | [Присоединиться / Join](https://telegram.me/+1YY6gjKaNY5lODYy) |
 | Ульяновск / Ulyanovsk | [Присоединиться / Join](https://telegram.me/+EJVorUB4Ss83YWMy) |
 | Уральск / Uralsk | [Присоединиться / Join](https://telegram.me/+_mA7qBg2VqwzNjcy) |
+| Усть-Каменогорск / Ust-Kamenogorsk | [Присоединиться / Join](https://telegram.me/+A0o0YlkQC-MzMjIy) |
 | Уфа / Ufa | [Присоединиться / Join](https://telegram.me/+IY-hH2ATgOY4ODYy) |
 | Хельсинки / Helsinki | [Присоединиться / Join](https://telegram.me/+0Z8isPJC2Js0ZjQy) |
 | Цюрих / Zurich | [Присоединиться / Join](https://telegram.me/+rbSGiNE5RHtkYThi) |
